@@ -1,1 +1,1 @@
-ads=false%elan=true%Botinfo is the best hi dear thanks to use my app hope you join our channel
+ads=true%elan=false%Botinfo is the best
