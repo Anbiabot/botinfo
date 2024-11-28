@@ -1,1 +1,1 @@
-ads=false%elan=true%Botinfo is the best
+ads=true%elan=true%Botinfo is the best
