@@ -1,1 +1,1 @@
-ads=true%elan=false%Botinfo is the best%footerads=false
+ads=true%elan=false%Botinfo is the best%footerads=true
